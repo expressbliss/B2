@@ -27,7 +27,8 @@ By Bliss - Portfolio
    
    <br>
    <p>My Current Work in Progress. Le Toader.</p>
-   <img src="https://github.com/expressbliss/Image_Holder/ToadMask1.jpg.git" alt="Social_Distanced_Toad" width="500" height="600">
+   <a href="https://github.com/expressbliss/Image_Holder/ToadMask1.jpg.git">Safety First!</a>
+   
    
    
    
